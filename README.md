@@ -27,14 +27,4 @@ $ node index.js strawberryyy
 Invalid emoji name
 ```
 
-## Emoji
 
-```bash
-TODO: add an output for the program
-```
-
-With user input of an incorrect emoji name: print error message that emoji doesn't exist
-
-```bash
-TODO: add an output for the program
-```
